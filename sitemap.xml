@@ -3,14 +3,17 @@
 
   <url>
     <loc>https://comatozzeein.github.io/comatozze/</loc>
-    <priority>1.0</priority>
-    <changefreq>daily</changefreq>
+    <priority>1.00</priority>
+  </url>
+
+  <url>
+    <loc>https://comatozzeein.github.io/comatozze/index.html</loc>
+    <priority>0.90</priority>
   </url>
 
   <url>
     <loc>https://comatozzeein.github.io/comatozze/contact.html</loc>
-    <priority>0.8</priority>
-    <changefreq>monthly</changefreq>
+    <priority>0.80</priority>
   </url>
 
-</urlset>
+</urlset> 
